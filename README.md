@@ -1,22 +1,22 @@
 # 👋 Hi there, I'm **Frédéric Navez**
 
-🤖 **Ingénieur en Intelligence Artificielle**, ancien **ingénieur en biologie**.  
-Je conçois des applications web et des produits tech, et je partage mon parcours sur LinkedIn et X.
+🤖 **AI Engineer** with a background as a **former Biology Engineer**.  
+I build web applications and tech products, and I share my journey on LinkedIn and X.
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 About Me
 
-Je suis ingénieur en IA avec un background scientifique en biologie.  
-J’aime transformer des concepts complexes en solutions concrètes et utiles.
+I am an AI Engineer with a strong scientific background in biology.  
+I enjoy turning complex ideas into practical, scalable, and impactful solutions.
 
-Dans mon temps libre, je développe différents projets techniques, notamment des applications web et prochainement un **SaaS**, en explorant des problématiques autour de la data, de l’IA et des produits numériques.
+In my free time, I work on various technical projects, including web applications and an upcoming **SaaS product**, with a strong focus on data, artificial intelligence, and product thinking.
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-### Langages & Frameworks
+### Languages & Frameworks
 - 🐍 **Python**
 - ⚛️ **React**
 - 🟨 **JavaScript**
@@ -24,7 +24,7 @@ Dans mon temps libre, je développe différents projets techniques, notamment de
 - ▲ **Next.js**
 - 🗄️ **SQL**
 
-### Environnement & Outils
+### Tools & Environment
 - 🐧 **Linux**
 - 📦 **Docker**
 - 🌱 **Git**
@@ -32,32 +32,32 @@ Dans mon temps libre, je développe différents projets techniques, notamment de
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact Me
 
-- 💼 LinkedIn : https://www.linkedin.com/in/fredericnavez/
-- 🐦 X (Twitter) : https://x.com/fredevcode
-
----
-
-## 🚀 Projets
-
-### 🌐 Site personnel
-Mon site personnel regroupe :
-- mes projets
-- mon parcours
-- mes expériences techniques
-
-👉 https://[ton-site].com
+- 💼 LinkedIn: https://www.linkedin.com/in/fredericnavez/
+- 🐦 X (Twitter): https://x.com/fredevcode
 
 ---
 
-### 🛠️ Projets personnels & SaaS
-Je développe actuellement plusieurs projets, dont un **SaaS** en préparation, avec une forte orientation produit et expérience utilisateur.
+## 🚀 Projects
+
+### 🌐 Personal Website
+My personal website where you can find:
+- my projects
+- my background
+- my technical experience
+
+👉 https://[your-website].com
 
 ---
 
-## 📆 Infos sur ce README
+### 🛠️ Personal Projects & SaaS
+I am currently building several personal projects, including an upcoming **SaaS**, with a strong focus on product design, user experience, and real-world impact.
 
-- 📌 Créé le : **Mon 3 Jan 2022**
-- 🔄 Dernière mise à jour : **Thu Oct 17 2025**
-- ⏱ **77 jours avant 2026**
+---
+
+## 📆 README Info
+
+- 📌 Created on: **Mon Jan 3, 2022**
+- 🔄 Last updated on: **Thu Oct 17, 2025**
+- ⏱ **77 days before 2026**
